@@ -1,5 +1,6 @@
 # Smart_Power
     此為本人大學專題所製作的IOT物聯網APP
+    本專題使用Volley和JSON Array進行溝通
     
 ## APP功能
 
